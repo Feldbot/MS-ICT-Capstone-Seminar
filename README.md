@@ -6,20 +6,13 @@
 ## Project Information
 My [final project](https://github.com/Feldbot/MS-ICT-Capstone-Seminar/blob/master/Web-based%20Data%20Visualization_Daniel%20Feldman.pdf) examines data visualization from the viewpoint of those who produce visualizations for the web, namely designers and developers. The topic interests me as I've produced technical data visualizations in print as a graphic designer and illustrator, however, while learning web development I became curious how producing and distributing visualizations happens over the web. Through basic research——primarily literature review——I focused on discovering if best practices existed in data visualization production, and if there was then an optimal way to distribute them over the web. 
 
-## Abstract
-Designers and developers struggle with finding effective workflow solutions when producing web-based data visualizations. Conceptual design problems surface in transforming raw data into effective visual messages. Technical development issues arise in choosing tools and
-frameworks to construct and distribute work. By examining the role of design guidelines and best practices to shape effective work, and assessing the benefits of leading data visualization production platforms, workflow optimization is possible. Solving these problems can save time and effort in production, and create improved work. This outcome benefits designers and developers, project stakeholders, and
-consumers. This research explains how the application of design best practices and guidelines, and choosing a web-standards framework for
-development and distribution can create effective and portable data visualizations.
-
 ### Capstone Paper
-- [Web-based Data Visualization: Creating Effective Displays of Information]()
+- [Web-based Data Visualization: Creating Effective Displays of Information](https://github.com/Feldbot/MS-ICT-Capstone-Seminar/blob/master/Web-based%20Data%20Visualization_Daniel%20Feldman.pdf) 
 
 ### Capstone Interactive Presentation
--
+- [Web-based Data Visualization: Creating Effective Displays of Information](http://prezi.com/buc7vn7jvxbq/?utm_campaign=share&utm_medium=copy&rc=ex0share)
 
 ## Author
-
-* **Daniel Feldman** - *Initial work* - [freeCodeCamp Portfolio](https://feldbot.github.io/fcc-portfolio/)
+* **Daniel Feldman** - *Initial work, based on basic research* - [freeCodeCamp Portfolio](https://feldbot.github.io/fcc-portfolio/)
 * Feel free to [contact me](mailto:feldbot@gmail.com) with any comments or questions
 
