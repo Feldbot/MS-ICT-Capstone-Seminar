@@ -11,8 +11,8 @@ My [final project](https://github.com/Feldbot/MS-ICT-Capstone-Seminar/blob/maste
 - [Web-based Data Visualization: Creating Effective Displays of Information](https://github.com/Feldbot/MS-ICT-Capstone-Seminar/blob/master/Web-based%20Data%20Visualization_Daniel%20Feldman.pdf) 
 
 #### Capstone Interactive Presentation
-- _Note: If you don't hear audio, you are viewing a Prezi simplified presentation, which strips out audio and animation. Visit Prezi [system requirements](https://support.prezi.com/hc/en-us/articles/360003498713-System-requirements) and [troubleshooting tips](https://support.prezi.com/hc/en-us/articles/360003499413-Viewing-a-simplified-presentation) to resolve this issue._
-- [Web-based Data Visualization: Creating Effective Displays of Information](http://prezi.com/buc7vn7jvxbq/?utm_campaign=share&utm_medium=copy&rc=ex0share)
+- _Note: To view the presentation, please download and unzip this Portable Prezi file:_
+  - [Web-based Data Visualization: Creating Effective Displays of Information](https://drive.google.com/open?id=1Bj_bJQHoJCsNDeu2tiOgqIkuiVPMCzzL)
 
 ### Author
 * **Daniel Feldman** - *Initial work, based on basic research* - [freeCodeCamp Portfolio](https://feldbot.github.io/fcc-portfolio/)
