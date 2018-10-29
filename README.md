@@ -11,7 +11,7 @@ My [final project](https://github.com/Feldbot/MS-ICT-Capstone-Seminar/blob/maste
 - [Web-based Data Visualization: Creating Effective Displays of Information](https://github.com/Feldbot/MS-ICT-Capstone-Seminar/blob/master/Web-based%20Data%20Visualization_Daniel%20Feldman.pdf) 
 
 #### Capstone Interactive Presentation
-- _Note: To view the presentation, please download and unzip this Portable Prezi file:_
+- _To view the presentation, please download and unzip this Portable Prezi file:_
   - [Web-based Data Visualization: Creating Effective Displays of Information](https://drive.google.com/open?id=1Bj_bJQHoJCsNDeu2tiOgqIkuiVPMCzzL)
 
 ### Author
